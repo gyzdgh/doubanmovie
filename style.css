@@ -104,6 +104,9 @@ section .search-area input {
     box-shadow: none;
     outline: none;
 }
+section .search-area input:focus{
+    border:1px solid #4B8AEC;
+}
 
 section .search-area .button {
     position: absolute;
