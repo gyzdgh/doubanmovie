@@ -109,7 +109,7 @@ section .search-area .button {
     position: absolute;
     right: 0;
     padding: 8px 10px;
-    background: #FF5722;
+    background:#4B8AEC;
     color: #fff;
     border-radius: 2px;
     cursor: pointer;
@@ -136,10 +136,11 @@ footer>div {
     text-align: center;
     color: #666;
     padding-top: 6px;
+    cursor: pointer;
 }
 
 footer .active {
-    color: #FF5722;
+    color: #4B8AEC;
 }
 
 footer>div>span {
